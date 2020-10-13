@@ -20,6 +20,7 @@ body {
     background-color: #f4f4f4;
 }
 textarea {
+    margin-top: 10px;
     background-color: #f4f4f4;
     color: #666666;
     text-align: center;
